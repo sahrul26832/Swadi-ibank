@@ -1,5 +1,0 @@
-mysqlclient
-passlib
-python-dateutil
-ldap3
-uvicorn
