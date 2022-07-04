@@ -1,0 +1,1 @@
+from swasdi.libs.apps.authBase.routing.auth import router
